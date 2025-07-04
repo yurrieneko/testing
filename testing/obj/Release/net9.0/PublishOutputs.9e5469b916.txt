@@ -1,0 +1,7 @@
+C:\Users\TMY-STUDENT\Desktop\testing\testing\obj\Release\net9.0\PubTmp\Out\testing.exe
+C:\Users\TMY-STUDENT\Desktop\testing\testing\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\TMY-STUDENT\Desktop\testing\testing\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\TMY-STUDENT\Desktop\testing\testing\obj\Release\net9.0\PubTmp\Out\testing.dll
+C:\Users\TMY-STUDENT\Desktop\testing\testing\obj\Release\net9.0\PubTmp\Out\testing.deps.json
+C:\Users\TMY-STUDENT\Desktop\testing\testing\obj\Release\net9.0\PubTmp\Out\testing.runtimeconfig.json
+C:\Users\TMY-STUDENT\Desktop\testing\testing\obj\Release\net9.0\PubTmp\Out\testing.pdb
